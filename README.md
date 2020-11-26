@@ -1,5 +1,5 @@
 # flappy_bird
-Pygame version of FlappyBird
+FlappyBird programmed using PyGame library.
 
 A simplified version of Flappy Bird with minimum use of sprites/animations. Mainly focused on basic logic of the game.
 
